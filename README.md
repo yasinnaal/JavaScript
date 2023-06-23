@@ -1,4 +1,6 @@
-# JavaScript
+# GitHub & BitBucket HTML Preview
+###### JavaScript
 
-View the output of HTML files on Github (HTML output)<br>
+View the output of HTML file on
+
 https://htmlpreview.github.io
